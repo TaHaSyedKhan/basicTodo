@@ -15,7 +15,7 @@ function App() {
 
         {
             id: 2,
-            text: 'Meeting'
+            text: 'Meeting '
         }
     ])
 
