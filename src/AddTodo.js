@@ -29,7 +29,7 @@ function AddTodo({ onAdd }) {
 
             
         </div>
-        <input type="submit" value='Save Todo' />
+            <input type="submit" value='Save Todo' />
     </form>
   )
 }
